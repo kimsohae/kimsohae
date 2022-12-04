@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 ### Junior Developer
 
 ### Tech Stack
